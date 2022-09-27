@@ -1,0 +1,2 @@
+select nama
+from jurusan;

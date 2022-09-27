@@ -1,0 +1,1 @@
+select kode_barang, nama_barang, min(harga) from penjualan_barang;

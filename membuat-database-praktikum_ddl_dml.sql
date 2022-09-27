@@ -1,0 +1,1 @@
+create database praktikum_ddl_dml;
